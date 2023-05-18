@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PostsCards",
+    "slug": "PostsCards",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PostsCards"
+}
